@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/researcher/ur5_test/build/ur5_test/rosidl_generator_py/ur5_test/ur5_test_s__rosidl_typesupport_c.so" "TARGETS" "ur5_test_s__rosidl_typesupport_c" "DESTINATION" "lib/python3.12/site-packages/ur5_test")

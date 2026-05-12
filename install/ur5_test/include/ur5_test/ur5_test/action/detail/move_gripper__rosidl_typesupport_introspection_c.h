@@ -1,0 +1,1 @@
+/home/researcher/ur5_test/build/ur5_test/rosidl_typesupport_introspection_c/ur5_test/action/detail/move_gripper__rosidl_typesupport_introspection_c.h

@@ -1,0 +1,6 @@
+{
+  "package_name": "ur5_test",
+  "non_idl_tuples": [
+    "/home/researcher/ur5_test/src/ur5_test:action/MoveGripper.action"
+  ]
+}

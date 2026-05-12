@@ -1,0 +1,1 @@
+/home/researcher/ur5_test/src/ur5_test/scripts/hand_e_server.py

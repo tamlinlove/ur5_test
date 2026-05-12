@@ -1,0 +1,1 @@
+/home/researcher/ur5_test/build/robotiq_hande_description/ament_cmake_core/robotiq_hande_descriptionConfig.cmake

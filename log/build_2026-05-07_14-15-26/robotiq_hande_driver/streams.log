@@ -1,0 +1,69 @@
+[0.011s] Invoking command in '/home/researcher/ur5_test/build/robotiq_hande_driver': CMAKE_PREFIX_PATH=/home/researcher/ur5_test/install/robotiq_hande_description:/home/researcher/ur5_test/install/ur5_test:/home/researcher/ur5_test/install/robotiq_hande_driver:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/researcher/ur5_test/src/robotiq_hande_driver/robotiq_hande_driver -DCMAKE_INSTALL_PREFIX=/home/researcher/ur5_test/install/robotiq_hande_driver
+[0.023s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.164s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.168s] -- Found hardware_interface: 4.44.0 (/opt/ros/jazzy/share/hardware_interface/cmake)
+[0.187s] -- Found rosidl_generator_c: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.193s] -- Found rosidl_generator_cpp: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.200s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.208s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.324s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[0.345s] -- Found rmw_implementation_cmake: 7.3.3 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.346s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[0.356s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[0.364s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[0.378s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[0.385s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[0.395s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.477s] -- Found ament_cmake_gmock: 2.5.6 (/opt/ros/jazzy/share/ament_cmake_gmock/cmake)
+[0.477s] -- Found ros2_control_test_assets: 4.44.0 (/opt/ros/jazzy/share/ros2_control_test_assets/cmake)
+[0.478s] -- Found gmock sources under '/opt/ros/jazzy/src/gmock_vendor': C++ tests using 'Google Mock' will be built
+[0.479s] -- Found ament_cmake_gtest: 2.5.6 (/opt/ros/jazzy/share/ament_cmake_gtest/cmake)
+[0.479s] -- Found gtest sources under '/opt/ros/jazzy/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[0.539s] -- Configuring done (0.5s)
+[0.563s] -- Generating done (0.0s)
+[0.568s] -- Build files have been written to: /home/researcher/ur5_test/build/robotiq_hande_driver
+[0.575s] Invoked command in '/home/researcher/ur5_test/build/robotiq_hande_driver' returned '0': CMAKE_PREFIX_PATH=/home/researcher/ur5_test/install/robotiq_hande_description:/home/researcher/ur5_test/install/ur5_test:/home/researcher/ur5_test/install/robotiq_hande_driver:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/researcher/ur5_test/src/robotiq_hande_driver/robotiq_hande_driver -DCMAKE_INSTALL_PREFIX=/home/researcher/ur5_test/install/robotiq_hande_driver
+[0.575s] Invoking command in '/home/researcher/ur5_test/build/robotiq_hande_driver': CMAKE_PREFIX_PATH=/home/researcher/ur5_test/install/robotiq_hande_description:/home/researcher/ur5_test/install/ur5_test:/home/researcher/ur5_test/install/robotiq_hande_driver:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/researcher/ur5_test/build/robotiq_hande_driver -- -j16 -l16
+[0.618s] [ 13%] Built target communication_test
+[0.621s] [ 33%] Built target gmock
+[0.621s] [ 46%] Built target gmock_main
+[0.626s] [ 86%] Built target robotiq_hande_driver
+[0.651s] [100%] Built target test_load_hw_interface
+[0.664s] Invoked command in '/home/researcher/ur5_test/build/robotiq_hande_driver' returned '0': CMAKE_PREFIX_PATH=/home/researcher/ur5_test/install/robotiq_hande_description:/home/researcher/ur5_test/install/ur5_test:/home/researcher/ur5_test/install/robotiq_hande_driver:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/researcher/ur5_test/build/robotiq_hande_driver -- -j16 -l16
+[0.665s] Invoking command in '/home/researcher/ur5_test/build/robotiq_hande_driver': CMAKE_PREFIX_PATH=/home/researcher/ur5_test/install/robotiq_hande_description:/home/researcher/ur5_test/install/ur5_test:/home/researcher/ur5_test/install/robotiq_hande_driver:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/researcher/ur5_test/build/robotiq_hande_driver
+[0.676s] -- Install configuration: ""
+[0.677s] -- Execute custom install script
+[0.678s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver//ros2_control_plugin.xml
+[0.678s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/include//robotiq_hande_driver/communication.hpp
+[0.678s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/include//robotiq_hande_driver/hande_gripper.hpp
+[0.679s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/include//robotiq_hande_driver/hande_hardware_interface.hpp
+[0.679s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/include//robotiq_hande_driver/protocol_logic.hpp
+[0.679s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/include//robotiq_hande_driver/socat_manager.hpp
+[0.679s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/include//robotiq_hande_driver/utils.hpp
+[0.679s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/bringup/config/hande_controller.yaml
+[0.680s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/bringup/config/rviz_preview.rviz
+[0.680s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/bringup/launch/gripper_controller_preview.launch.py
+[0.680s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/environment/library_path.sh
+[0.680s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/environment/library_path.dsv
+[0.680s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/ament_index/resource_index/package_run_dependencies/robotiq_hande_driver
+[0.680s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/ament_index/resource_index/parent_prefix_path/robotiq_hande_driver
+[0.681s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/environment/ament_prefix_path.sh
+[0.681s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/environment/ament_prefix_path.dsv
+[0.681s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/environment/path.sh
+[0.681s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/environment/path.dsv
+[0.681s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/local_setup.bash
+[0.681s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/local_setup.sh
+[0.681s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/local_setup.zsh
+[0.682s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/local_setup.dsv
+[0.682s] -- Symlinking: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/package.dsv
+[0.689s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/ament_index/resource_index/packages/robotiq_hande_driver
+[0.689s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/robotiq_hande_driver
+[0.689s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/cmake/ament_cmake_export_targets-extras.cmake
+[0.689s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.689s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/cmake/robotiq_hande_driverConfig.cmake
+[0.689s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/cmake/robotiq_hande_driverConfig-version.cmake
+[0.689s] -- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/package.xml
+[0.690s] -- Up-to-date: /home/researcher/ur5_test/install/robotiq_hande_driver/lib/librobotiq_hande_driver.so
+[0.690s] -- Up-to-date: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/cmake/export_robotiq_hande_driverExport.cmake
+[0.690s] -- Up-to-date: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/cmake/export_robotiq_hande_driverExport-noconfig.cmake
+[0.691s] Invoked command in '/home/researcher/ur5_test/build/robotiq_hande_driver' returned '0': CMAKE_PREFIX_PATH=/home/researcher/ur5_test/install/robotiq_hande_description:/home/researcher/ur5_test/install/ur5_test:/home/researcher/ur5_test/install/robotiq_hande_driver:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/researcher/ur5_test/build/robotiq_hande_driver

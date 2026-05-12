@@ -1,0 +1,1 @@
+/home/researcher/ur5_test/build/ur5_test/rosidl_generator_rs/ur5_test/rust/src/action.rs

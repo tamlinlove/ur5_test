@@ -1,0 +1,13 @@
+{
+  "package_name": "ur5_test",
+  "output_dir": "/home/researcher/ur5_test/build/ur5_test/rosidl_generator_type_description/ur5_test",
+  "idl_tuples": [
+    "/home/researcher/ur5_test/build/ur5_test/rosidl_adapter/ur5_test:action/MoveGripper.idl"
+  ],
+  "include_paths": [
+    "action_msgs:/opt/ros/jazzy/share/action_msgs",
+    "builtin_interfaces:/opt/ros/jazzy/share/builtin_interfaces",
+    "unique_identifier_msgs:/opt/ros/jazzy/share/unique_identifier_msgs",
+    "service_msgs:/opt/ros/jazzy/share/service_msgs"
+  ]
+}

@@ -1,0 +1,1 @@
+/home/researcher/ur5_test/build/ur5_test/rosidl_typesupport_introspection_c/ur5_test/msg/rosidl_typesupport_introspection_c__visibility_control.h

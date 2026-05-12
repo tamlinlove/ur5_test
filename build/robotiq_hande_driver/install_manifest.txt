@@ -1,0 +1,3 @@
+/home/researcher/ur5_test/install/robotiq_hande_driver/lib/librobotiq_hande_driver.so
+/home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/cmake/export_robotiq_hande_driverExport.cmake
+/home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/cmake/export_robotiq_hande_driverExport-noconfig.cmake

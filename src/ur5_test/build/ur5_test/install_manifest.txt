@@ -1,0 +1,16 @@
+/home/researcher/ur5_test/src/ur5_test/install/ur5_test/share/ur5_test/urdf/ur5_hand_e.urdf.xacro
+/home/researcher/ur5_test/src/ur5_test/install/ur5_test/share/ament_index/resource_index/package_run_dependencies/ur5_test
+/home/researcher/ur5_test/src/ur5_test/install/ur5_test/share/ament_index/resource_index/parent_prefix_path/ur5_test
+/home/researcher/ur5_test/src/ur5_test/install/ur5_test/share/ur5_test/environment/ament_prefix_path.sh
+/home/researcher/ur5_test/src/ur5_test/install/ur5_test/share/ur5_test/environment/ament_prefix_path.dsv
+/home/researcher/ur5_test/src/ur5_test/install/ur5_test/share/ur5_test/environment/path.sh
+/home/researcher/ur5_test/src/ur5_test/install/ur5_test/share/ur5_test/environment/path.dsv
+/home/researcher/ur5_test/src/ur5_test/install/ur5_test/share/ur5_test/local_setup.bash
+/home/researcher/ur5_test/src/ur5_test/install/ur5_test/share/ur5_test/local_setup.sh
+/home/researcher/ur5_test/src/ur5_test/install/ur5_test/share/ur5_test/local_setup.zsh
+/home/researcher/ur5_test/src/ur5_test/install/ur5_test/share/ur5_test/local_setup.dsv
+/home/researcher/ur5_test/src/ur5_test/install/ur5_test/share/ur5_test/package.dsv
+/home/researcher/ur5_test/src/ur5_test/install/ur5_test/share/ament_index/resource_index/packages/ur5_test
+/home/researcher/ur5_test/src/ur5_test/install/ur5_test/share/ur5_test/cmake/ur5_testConfig.cmake
+/home/researcher/ur5_test/src/ur5_test/install/ur5_test/share/ur5_test/cmake/ur5_testConfig-version.cmake
+/home/researcher/ur5_test/src/ur5_test/install/ur5_test/share/ur5_test/package.xml

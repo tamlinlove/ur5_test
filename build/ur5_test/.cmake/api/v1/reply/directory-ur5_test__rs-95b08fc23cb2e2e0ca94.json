@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "ur5_test__rs",
+		"source" : "/home/researcher/ur5_test/build/ur5_test/ur5_test__rs"
+	}
+}

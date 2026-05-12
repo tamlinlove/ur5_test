@@ -1,0 +1,40 @@
+[ 20%] Built target gmock
+[ 33%] Built target communication_test
+[ 46%] Built target gmock_main
+[ 86%] Built target robotiq_hande_driver
+[100%] Built target test_load_hw_interface
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver//ros2_control_plugin.xml
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/include//robotiq_hande_driver/communication.hpp
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/include//robotiq_hande_driver/hande_gripper.hpp
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/include//robotiq_hande_driver/hande_hardware_interface.hpp
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/include//robotiq_hande_driver/protocol_logic.hpp
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/include//robotiq_hande_driver/socat_manager.hpp
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/include//robotiq_hande_driver/utils.hpp
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/bringup/config/hande_controller.yaml
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/bringup/config/rviz_preview.rviz
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/bringup/launch/gripper_controller_preview.launch.py
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/environment/library_path.sh
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/environment/library_path.dsv
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/ament_index/resource_index/package_run_dependencies/robotiq_hande_driver
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/ament_index/resource_index/parent_prefix_path/robotiq_hande_driver
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/environment/path.sh
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/environment/path.dsv
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/local_setup.bash
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/local_setup.sh
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/local_setup.zsh
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/local_setup.dsv
+-- Symlinking: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/package.dsv
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/ament_index/resource_index/packages/robotiq_hande_driver
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/robotiq_hande_driver
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/cmake/ament_cmake_export_targets-extras.cmake
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/cmake/robotiq_hande_driverConfig.cmake
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/cmake/robotiq_hande_driverConfig-version.cmake
+-- Up-to-date symlink: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/package.xml
+-- Up-to-date: /home/researcher/ur5_test/install/robotiq_hande_driver/lib/librobotiq_hande_driver.so
+-- Up-to-date: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/cmake/export_robotiq_hande_driverExport.cmake
+-- Up-to-date: /home/researcher/ur5_test/install/robotiq_hande_driver/share/robotiq_hande_driver/cmake/export_robotiq_hande_driverExport-noconfig.cmake

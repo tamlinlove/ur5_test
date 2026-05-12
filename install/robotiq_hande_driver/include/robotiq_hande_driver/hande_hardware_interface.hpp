@@ -1,0 +1,1 @@
+/home/researcher/ur5_test/src/robotiq_hande_driver/robotiq_hande_driver/hardware/include/robotiq_hande_driver/hande_hardware_interface.hpp

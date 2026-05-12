@@ -1,0 +1,32 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from ur5_test/action/MoveGripper.action
+// generated code does not contain a copyright notice
+
+
+module ur5_test {
+  module action {
+    @verbatim (language="comment", text=
+      "Goal")
+    struct MoveGripper_Goal {
+      double x;
+
+      double y;
+
+      double z;
+
+      boolean use_default_z;
+    };
+    @verbatim (language="comment", text=
+      "Result")
+    struct MoveGripper_Result {
+      boolean success;
+
+      string message;
+    };
+    @verbatim (language="comment", text=
+      "Feedback")
+    struct MoveGripper_Feedback {
+      string status;
+    };
+  };
+};

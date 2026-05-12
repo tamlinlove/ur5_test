@@ -1,0 +1,267 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-fcafd435360a2b33e8e5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						16,
+						17,
+						18,
+						19
+					]
+				},
+				{
+					"build" : "ur5_test__py",
+					"jsonFile" : "directory-ur5_test__py-eb388bb8bbeabfd8c152.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/researcher/ur5_test/build/ur5_test/ur5_test__py",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "ur5_test__rs",
+					"jsonFile" : "directory-ur5_test__rs-95b08fc23cb2e2e0ca94.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/researcher/ur5_test/build/ur5_test/ur5_test__rs",
+					"targetIndexes" : 
+					[
+						15
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "ur5_test",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_ur5_test_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_ur5_test_egg-33858b7c10e1e0b6b5bb.json",
+					"name" : "ament_cmake_python_build_ur5_test_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_ur5_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_ur5_test-8d90f333d4ce67e05391.json",
+					"name" : "ament_cmake_python_symlink_ur5_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-27e851cf4babe0ac4aa2.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ur5_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ur5_test-4a62a03b493c2a575753.json",
+					"name" : "ur5_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ur5_test__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ur5_test__cpp-fc6210fc07b543a3542f.json",
+					"name" : "ur5_test__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ur5_test__py::@2b4ccbf9f32c85a26e62",
+					"jsonFile" : "target-ur5_test__py-fbb27fc14e656c563c6c.json",
+					"name" : "ur5_test__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ur5_test__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ur5_test__rosidl_generator_c-9ca27e85e0085052998f.json",
+					"name" : "ur5_test__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ur5_test__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ur5_test__rosidl_generator_py-fc798adb235c0913a98f.json",
+					"name" : "ur5_test__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ur5_test__rosidl_generator_type_description::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ur5_test__rosidl_generator_type_description-475274ed708e30894612.json",
+					"name" : "ur5_test__rosidl_generator_type_description",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ur5_test__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ur5_test__rosidl_typesupport_c-b4ee102a125a980c402b.json",
+					"name" : "ur5_test__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ur5_test__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ur5_test__rosidl_typesupport_cpp-d50ba2c88d0b6079071d.json",
+					"name" : "ur5_test__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ur5_test__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ur5_test__rosidl_typesupport_fastrtps_c-d4f30a1fda40278ecbca.json",
+					"name" : "ur5_test__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ur5_test__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ur5_test__rosidl_typesupport_fastrtps_cpp-dbbb9ee5aba6eaf7d462.json",
+					"name" : "ur5_test__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ur5_test__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ur5_test__rosidl_typesupport_introspection_c-c0b2b0705a2340ecad36.json",
+					"name" : "ur5_test__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ur5_test__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ur5_test__rosidl_typesupport_introspection_cpp-600f6a9c3d5c559a0b31.json",
+					"name" : "ur5_test__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ur5_test__rs::@6094320e67d536893969",
+					"jsonFile" : "target-ur5_test__rs-0ccee703c40738105be2.json",
+					"name" : "ur5_test__rs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ur5_test_s__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ur5_test_s__rosidl_typesupport_c-634ce76d695ef21d535a.json",
+					"name" : "ur5_test_s__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ur5_test_s__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ur5_test_s__rosidl_typesupport_fastrtps_c-8c0d068232a8174bb506.json",
+					"name" : "ur5_test_s__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ur5_test_s__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ur5_test_s__rosidl_typesupport_introspection_c-3663f2add7b175ea28c0.json",
+					"name" : "ur5_test_s__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ur5_test_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ur5_test_uninstall-5fc0f7be7ee28e695eb3.json",
+					"name" : "ur5_test_uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/researcher/ur5_test/build/ur5_test",
+		"source" : "/home/researcher/ur5_test/src/ur5_test"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,9 @@
+/home/researcher/ur5_test/src/ur5_test/build/ur5_test/CMakeFiles/uninstall.dir
+/home/researcher/ur5_test/src/ur5_test/build/ur5_test/CMakeFiles/ur5_test_uninstall.dir
+/home/researcher/ur5_test/src/ur5_test/build/ur5_test/CMakeFiles/test.dir
+/home/researcher/ur5_test/src/ur5_test/build/ur5_test/CMakeFiles/edit_cache.dir
+/home/researcher/ur5_test/src/ur5_test/build/ur5_test/CMakeFiles/rebuild_cache.dir
+/home/researcher/ur5_test/src/ur5_test/build/ur5_test/CMakeFiles/list_install_components.dir
+/home/researcher/ur5_test/src/ur5_test/build/ur5_test/CMakeFiles/install.dir
+/home/researcher/ur5_test/src/ur5_test/build/ur5_test/CMakeFiles/install/local.dir
+/home/researcher/ur5_test/src/ur5_test/build/ur5_test/CMakeFiles/install/strip.dir
